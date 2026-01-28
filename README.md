@@ -2,7 +2,7 @@
 
 Programa en Python para registrar y buscar perros con nombre, huella dactilar y foto .
 
-Funcionalidades
+Funcionalidades :
 
 Registrar poliperros
 
