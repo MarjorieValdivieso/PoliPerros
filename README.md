@@ -1,2 +1,13 @@
-# Programa Poliperros
-Este proyecto es un programa en Python que permite **registrar, mostrar y buscar Poliperros**, almacenando información básica como nombre, huella dactilar y foto del perro.
+🐾 Poliperros
+
+Programa en Python para registrar y buscar perros con nombre, huella dactilar y foto .
+
+Funcionalidades
+
+Registrar poliperros
+
+Mostrar todos los registros
+
+Buscar por huella dactilar
+
+Guardar datos en archivo de text
